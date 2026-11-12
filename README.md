@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Prakriti
 
-<!--
-**Prakriti2121/Prakriti2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer at Veraison Creative in Lalitpur, Nepal. I build production web apps with Next.js, TypeScript and PostgreSQL.
 
-Here are some ideas to get you started:
+### Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Concealed Wines**: importer sites for four markets (.com, .se, .no, .fi) built with Next.js
+* **TMS**: tender and offer management system for the Concealed Wines team
+* **vinjournalen.se**: Swedish wine publication on Next.js
+
+### Stack
+
+Next.js, React, TypeScript, PostgreSQL, Tailwind CSS, Astro
+
+### Contact
+
+* [LinkedIn](https://www.linkedin.com/in/prakritiadh)
+* [Email](mailto:prakritiadhikari2121@gmail.com)
